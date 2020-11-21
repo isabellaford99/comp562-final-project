@@ -5,8 +5,8 @@ Created By: Isabella Ford, Elizabeth Hensley, Margaret Lake, Kate Richardson
 
 Contents:
   - Jupyter Notebook
-  - test.csv
-  - train.csv
+  - test.csv (Data from Kaggle Competiton:   https://www.kaggle.com/c/nlp-getting-started/overview)
+  - train.csv (Data from Kaggle Competiton:   https://www.kaggle.com/c/nlp-getting-started/overview)
   
 To Run:
   Jupyter Notebook will successfully run if train.csv and test.csv are in the working directory of the Jupyter Notebook.
